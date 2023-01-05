@@ -12,6 +12,7 @@ public class Main {
         total += (way * kmTotal);
 
         total = total >= 20 ? total: 20;
-        System.out.print("Taksimetre tutarınız " + total + " TL 'dir.");
+        System.out.println("Taksimetre tutarınız " + total + " TL 'dir.");
+        System.out.print("İyi Günler");
     }
 }
